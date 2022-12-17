@@ -1,0 +1,10 @@
+com/example/apigatewayservice/filter/GlobalFilter$Config.class
+com/example/apigatewayservice/filter/LoggingFilter.class
+com/example/apigatewayservice/config/FilterConfig.class
+com/example/apigatewayservice/filter/AuthorizationHeaderFilter.class
+com/example/apigatewayservice/filter/GlobalFilter.class
+com/example/apigatewayservice/filter/CustomFilter$Config.class
+com/example/apigatewayservice/ApigatewayServiceApplication.class
+com/example/apigatewayservice/filter/AuthorizationHeaderFilter$Config.class
+com/example/apigatewayservice/filter/LoggingFilter$Config.class
+com/example/apigatewayservice/filter/CustomFilter.class
