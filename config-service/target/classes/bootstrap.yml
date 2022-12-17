@@ -1,0 +1,7 @@
+encrypt:
+  key-store:
+    location: file:/apiEncryptionKey.jks
+#    location: file://${user.home}/workflow/keystore/apiEncryptionKey.jks
+    password: test1234
+    alias: apiEncryptionKey
+#  key: abcdefghijklmnopqrstuvwxyz0123456789
