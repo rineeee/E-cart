@@ -9,5 +9,5 @@ Build msa using spring cloud.
 ## Using
 
 ```bash
-git clone 
+git clone https://github.com/rineeee/E-cart.git
 ```
