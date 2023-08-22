@@ -11,10 +11,10 @@ Build msa using spring cloud.
 
 ## Repository
 
-### Api Gateway
-### Discovery
-### Config
+### API Gateway Service
+### Discovery Service
+### Config Service
+### Micro Service
 [User](https://github.com/rineeee/User)
-### Order
-### Catalog
+
 
