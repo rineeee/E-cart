@@ -45,6 +45,10 @@ Build msa using spring cloud.
 
 - Auth
   - Spring Security
+
+- DB
+  - JPA
+  - H2
 ### API Gateway Service
 ### Discovery Service
 ### Config Service
