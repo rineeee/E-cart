@@ -98,7 +98,8 @@ Build msa using spring cloud.
 #### [Config](https://github.com/rineeee/Config)
 
 [MSA PROJECT] E-cart의 config 관리
-<img width="1010" alt="Config" src="https://github.com/rineeee/Config/assets/62981406/ac8e7304-5e48-478e-a74a-2fdca85297af">
+<img width="437" alt="Config (1)" src="https://github.com/rineeee/Config/assets/62981406/578e207e-5fa1-4706-aff3-5bb7261c84e4">
+
 
 - Config
   - Spring Cloud Config
@@ -106,5 +107,6 @@ Build msa using spring cloud.
   - Spring Cloud Bus
   - Rabbitmq
 
-- Encypt
+- Encryption
   - JDK Keytool(RSA)
+
