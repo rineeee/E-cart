@@ -14,6 +14,7 @@ Build msa using spring cloud.
 ### Micro Service
 - [User](https://github.com/rineeee/User)
 - [Order](https://github.com/rineeee/Order)
+- [Catalogs](https://github.com/rineeee/Catalogs)
 ### API Gateway Service
 ### Discovery Service
 ### Config Service
@@ -70,6 +71,26 @@ Build msa using spring cloud.
 
 - DB
   - MariaDB
+
+#### [Catalogs](https://github.com/rineeee/Catalogs)
+
+[MSA PROJECT] E-cart의 카탈로그 서비스
+<img width="1010" alt="catalogs" src="https://github.com/rineeee/Catalogs/assets/62981406/2cf8d494-a94d-41bb-bfc3-2b345b07abf1">
+
+- Discovery
+  - Eureka Client
+  
+- MQ
+  - Kafka
+
+- Monitoring
+  - Sleuth
+  - Zipkin
+  - Prometheus
+
+- DB
+  - JPA
+  - H2
 ### API Gateway Service
 ### Discovery Service
 ### Config Service
