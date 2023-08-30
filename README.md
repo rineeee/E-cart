@@ -98,8 +98,8 @@ Build msa using spring cloud.
 #### [Config](https://github.com/rineeee/Config)
 
 [MSA PROJECT] E-cart의 config 관리
-<img width="437" alt="Config (1)" src="https://github.com/rineeee/Config/assets/62981406/578e207e-5fa1-4706-aff3-5bb7261c84e4">
 
+<img width="1010" alt="Config (2)" src="https://github.com/rineeee/E-cart/assets/62981406/2eac083a-61a4-4810-a633-362510dcdcd3">
 
 - Config
   - Spring Cloud Config
