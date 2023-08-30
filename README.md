@@ -16,6 +16,7 @@ Build msa using spring cloud.
 - [Order](https://github.com/rineeee/Order)
 - [Catalogs](https://github.com/rineeee/Catalogs)
 ### API Gateway Service
+- [APIGateway](https://github.com/rineeee/APIGateway)
 ### Discovery Service
 ### Config Service
 - [Config](https://github.com/rineeee/Config)
@@ -93,6 +94,25 @@ Build msa using spring cloud.
   - JPA
   - H2
 ### API Gateway Service
+#### [APIGateway](https://github.com/rineeee/APIGateway)
+[MSA PROJECT] E-cart의 API Gateway
+<img width="1105" alt="api-gateway" src="https://github.com/rineeee/APIGateway/assets/62981406/21e26a60-b166-40c8-bd5f-45657e8a6f20">
+
+
+- Discovery
+  - Eureka Client
+
+- Gateway
+  - Spring Cloud Gateway
+  
+- Config
+  - Spring Cloud Config
+  - Spring Actuator
+  - Spring Cloud Bus
+  - Rabbitmq
+
+- Monitoring
+  - Prometheus
 ### Discovery Service
 ### Config Service
 #### [Config](https://github.com/rineeee/Config)
