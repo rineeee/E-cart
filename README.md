@@ -18,6 +18,7 @@ Build msa using spring cloud.
 ### API Gateway Service
 - [APIGateway](https://github.com/rineeee/APIGateway)
 ### Discovery Service
+- [Discovery](https://github.com/rineeee/Discovery)
 ### Config Service
 - [Config](https://github.com/rineeee/Config)
 
@@ -114,6 +115,12 @@ Build msa using spring cloud.
 - Monitoring
   - Prometheus
 ### Discovery Service
+#### [Discovery](https://github.com/rineeee/Discovery)
+[MSA PROJECT] E-cart의 Discovery
+
+- Discovery
+  - Spring Cloud Netflix Eureka Server
+
 ### Config Service
 #### [Config](https://github.com/rineeee/Config)
 
